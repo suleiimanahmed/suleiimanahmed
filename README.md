@@ -9,7 +9,6 @@
 **Civil Engineer & Researcher | Geotechnical and Structural Engineering | Permafrost THM Modelling**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleimanaliahmed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-122027?style=flat-square&logo=googlechrome&logoColor=white)](https://suleimanaliahmed.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/suleimanaliahmed)
 
 ---
@@ -23,7 +22,7 @@ Civil engineer and researcher, passionate about geotechnical and structural engi
 - **Permafrost THM modelling:** degradation, ground stability and cold-region infrastructure, built in OpenGeoSys (field case: Norman Wells, NWT).
 - **Geothermal energy in cold regions:** subsurface characterisation for low-carbon heating and cooling.
 - **Seismic geotechnics:** non-linear site response of stone-column-improved soils.
-- **AI-assisted engineering:** AI for modelling, scripting and analysis, with verification and judgement kept with the engineer.
+- **AI-assisted engineering:** 
 
 ## Tech stack
 
@@ -36,9 +35,7 @@ Civil engineer and researcher, passionate about geotechnical and structural engi
 ## Recent papers
 
 - Ahmed, S., & Li, B. (2026). *Pore-Water Salinity Effects on Seasonal Dynamics of Active Layer and Permafrost at Norman Wells, NWT, Canada, Using a Thermo-Hydro-Mechanical Model.* GeoQuébec 2026.
-- Ahmed, S., Li, B., Vadiee, S., Khaksar, K., Norouzi, E., & Wang, L.L. (2026). *Transforming Built and Urban Microclimates: Geothermal Energy in Cold Regions.* DBMC 2026.
 
-More on my [publications page](https://suleimanaliahmed.github.io/publications.html).
 
 ## Let's connect
 
