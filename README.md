@@ -22,7 +22,7 @@ Civil engineer and researcher, passionate about geotechnical and structural engi
 - **Permafrost THM modelling:** degradation, ground stability and cold-region infrastructure, built in OpenGeoSys (field case: Norman Wells, NWT).
 - **Geothermal energy in cold regions:** subsurface characterisation for low-carbon heating and cooling.
 - **Seismic geotechnics:** non-linear site response of stone-column-improved soils.
-- **AI-assisted engineering:** 
+- **AI-assisted engineering** 
 
 ## Tech stack
 
