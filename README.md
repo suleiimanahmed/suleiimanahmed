@@ -28,9 +28,9 @@ Civil engineer and researcher, passionate about geotechnical and structural engi
 
 | Area | Tools |
 |---|---|
-| Numerical and multiphysics | OpenGeoSys, ABAQUS, ANSYS, PLAXIS, FLAC, COMSOL, Rocscience Software Suite, DEEPSOIL |
+| Numerical and multiphysics | OpenGeoSys, ABAQUS, ANSYS, PLAXIS, FLAC, COMSOL, Rocscience Software Suite, DEEPSOIL, DIANA, ADINA  |
 | Programming | Python, C/C++, Fortran, MATLAB, SQL |
-| Structural design | ETABS, AutoCAD, SAP2000, Eurocodes 1, 2, 7 and 8 |
+| Structural design | AutoCAD, Revit, Tekla, ETABS, SAP2000, STAAD.Pro, RISA-3D, ROBOT Structural Analysis|
 
 ## Recent papers
 
