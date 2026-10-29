@@ -33,7 +33,7 @@ My work also covers geothermal energy, earthquake effects on soil, and improving
 
 | Area | Tools |
 |---|---|
-| Numerical and multiphysics | OpenGeoSys, ABAQUS, ANSYS, PLAXIS, FLAC, COMSOL, Rocscience Software Suite, DEEPSOIL, DIANA, ADINA  |
+| Numerical and multiphysics | OpenGeoSys, ABAQUS, ANSYS, PLAXIS, FLAC, COMSOL, Rocscience Software Suite, DEEPSOIL, DIANA  |
 | Programming | Python, C/C++, Fortran, MATLAB, SQL |
 | Structural design | AutoCAD, Revit, Tekla, ETABS, SAP2000, STAAD.Pro, RISA-3D, ROBOT Structural Analysis|
 
