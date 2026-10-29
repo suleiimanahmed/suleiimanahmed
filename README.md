@@ -15,14 +15,17 @@
 
 ## About
 
-Civil engineer and researcher, passionate about geotechnical and structural engineering. I model how frozen ground thaws and what that does to the structures built on it, using coupled thermo-hydro-mechanical (THM) simulation calibrated against field data. Outside the models I write code and follow how AI is changing the way engineers work.
+I’m a civil engineer and researcher interested in how soil and structures behave, especially in cold regions. My research looks at how permafrost thaws, how the ground changes, and how these changes affect the structures built on it. I use computer models and field data to study these processes.
+
+My work also covers geothermal energy, earthquake effects on soil, and improving ground stability. Outside research, I enjoy coding and exploring how AI can help engineers solve problems and work more efficiently.
 
 ## What I work on
 
-- **Permafrost THM modelling:** degradation, ground stability and cold-region infrastructure, built in OpenGeoSys (field case: Norman Wells, NWT).
-- **Geothermal energy in cold regions:** subsurface characterisation for low-carbon heating and cooling.
-- **Seismic geotechnics:** non-linear site response of stone-column-improved soils.
-- **AI-assisted engineering** 
+- **Permafrost THM Modelling:** Studying how thawing permafrost affects ground stability and infrastructure using OpenGeoSys and field data from Norman Wells, Northwest Territories.
+- **Geothermal Energy:** Exploring how ground conditions can support low-carbon heating and cooling in cold regions.
+- **Seismic Geotechnics:** Studying how soils reinforced with stone columns behave during earthquakes.
+- **AI-Assisted Engineering:** Exploring how AI and coding can support engineering analysis, modelling, and problem-solving.
+
 
 ## Tech stack
 
