@@ -39,4 +39,4 @@ Civil engineer and researcher, passionate about geotechnical and structural engi
 
 ## Let's connect
 
-I am always ready to connect with people. Whether you work in geotechnical engineering, permafrost or AI-assisted engineering, or you simply want to say hello, find me on [LinkedIn](https://www.linkedin.com/in/suleimanaliahmed/) or visit my [portfolio](https://suleimanaliahmed.github.io/).
+I am always ready to connect with people. Whether you work in geotechnical engineering, permafrost or AI-assisted engineering, or you simply want to say hello, find me on [LinkedIn](https://www.linkedin.com/in/suleimanaliahmed/) or visit my [portfolio](https://suleiimanahmed.github.io/).
