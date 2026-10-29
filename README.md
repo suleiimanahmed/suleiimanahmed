@@ -19,12 +19,14 @@ I’m a civil engineer and researcher interested in how soil and structures beha
 
 My work also covers geothermal energy, earthquake effects on soil, and improving ground stability. Outside research, I enjoy coding and exploring how AI can help engineers solve problems and work more efficiently.
 
+
 ## What I work on
 
 - **Permafrost THM Modelling:** Studying how thawing permafrost affects ground stability and infrastructure using OpenGeoSys and field data from Norman Wells, Northwest Territories.
 - **Geothermal Energy:** Exploring how ground conditions can support low-carbon heating and cooling in cold regions.
 - **Seismic Geotechnics:** Studying how soils reinforced with stone columns behave during earthquakes.
 - **AI-Assisted Engineering:** Exploring how AI and coding can support engineering analysis, modelling, and problem-solving.
+
 
 
 ## Tech stack
