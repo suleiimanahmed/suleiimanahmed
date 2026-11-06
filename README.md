@@ -44,4 +44,4 @@ My work also covers geothermal energy, earthquake effects on soil, and improving
 
 ## Let's connect
 
-I am always ready to connect with people. Whether you work in geotechnical engineering, permafrost or AI-assisted engineering, or you simply want to say hello, find me on [LinkedIn](https://www.linkedin.com/in/suleimanaliahmed/) or visit my [portfolio](https://suleiimanahmed.github.io/).
+I am always ready to connect with people. Whether you work in geotechnical engineering, permafrost or AI-assisted engineering, or you simply want to say hello, find me on [LinkedIn](https://www.linkedin.com/in/suleimanaliahmed/) or visit my [portfolio](https://suleimanahmedx.github.io/).
